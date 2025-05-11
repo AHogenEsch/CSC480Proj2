@@ -1,6 +1,8 @@
 from deck import Deck
 from hand_evaluator import HandEvaluator
 from mcts import MCTS
+import random
+
 
 class PokerBot:
     """
